@@ -1,0 +1,22 @@
+# Data
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+ 
+# Models (use Releases or HF)
+models/*.joblib
+models/*.pkl
+ 
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+ 
+# Node
+node_modules/
+dist/
+ 
+# Env
+.env

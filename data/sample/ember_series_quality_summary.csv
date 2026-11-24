@@ -1,0 +1,317 @@
+Area,ISO 3 code,Drivetrain,n_obs,n_nonzero,first_date,last_date
+Albania,ALB,Battery electric,94,92,2019-01-01,2026-10-01
+Albania,ALB,Diesel,94,94,2019-01-01,2026-10-01
+Albania,ALB,Hybrid,94,94,2019-01-01,2026-10-01
+Albania,ALB,Other,94,94,2019-01-01,2026-10-01
+Albania,ALB,Petrol,94,94,2019-01-01,2026-10-01
+Albania,ALB,Plug-in hybrid,94,64,2019-01-01,2026-10-01
+Australia,AUS,Battery electric,76,76,2020-07-01,2026-10-01
+Australia,AUS,Diesel,76,76,2020-07-01,2026-10-01
+Australia,AUS,Hybrid,76,76,2020-07-01,2026-10-01
+Australia,AUS,Other,76,16,2020-07-01,2026-10-01
+Australia,AUS,Petrol,76,76,2020-07-01,2026-10-01
+Australia,AUS,Plug-in hybrid,76,76,2020-07-01,2026-10-01
+Austria,AUT,Battery electric,105,105,2018-01-01,2026-09-01
+Austria,AUT,Diesel,105,105,2018-01-01,2026-09-01
+Austria,AUT,Hybrid,105,105,2018-01-01,2026-09-01
+Austria,AUT,Other,105,77,2018-01-01,2026-09-01
+Austria,AUT,Petrol,105,105,2018-01-01,2026-09-01
+Austria,AUT,Plug-in hybrid,105,105,2018-01-01,2026-09-01
+Belgium,BEL,Battery electric,165,165,2013-01-01,2026-09-01
+Belgium,BEL,Diesel,165,165,2013-01-01,2026-09-01
+Belgium,BEL,Hybrid,165,165,2013-01-01,2026-09-01
+Belgium,BEL,Other,165,165,2013-01-01,2026-09-01
+Belgium,BEL,Petrol,165,165,2013-01-01,2026-09-01
+Belgium,BEL,Plug-in hybrid,165,165,2013-01-01,2026-09-01
+Brazil,BRA,Battery electric,175,175,2012-01-01,2026-07-01
+Brazil,BRA,Diesel,175,175,2012-01-01,2026-07-01
+Brazil,BRA,Ethanol/petrol blend,175,175,2012-01-01,2026-07-01
+Brazil,BRA,Hybrid,175,67,2012-01-01,2026-07-01
+Brazil,BRA,Other,175,1,2012-01-01,2026-07-01
+Brazil,BRA,Petrol,175,175,2012-01-01,2026-07-01
+Brazil,BRA,Plug-in hybrid,175,43,2012-01-01,2026-07-01
+Bulgaria,BGR,Battery electric,44,44,2023-01-01,2026-09-01
+Bulgaria,BGR,Diesel,44,44,2023-01-01,2026-09-01
+Bulgaria,BGR,Hybrid,44,44,2023-01-01,2026-09-01
+Bulgaria,BGR,Other,44,20,2023-01-01,2026-09-01
+Bulgaria,BGR,Petrol,44,44,2023-01-01,2026-09-01
+Bulgaria,BGR,Plug-in hybrid,44,44,2023-01-01,2026-09-01
+Canada,CAN,Battery electric,38,0,2017-03-01,2026-06-01
+Canada,CAN,Diesel,38,0,2017-03-01,2026-06-01
+Canada,CAN,Hybrid,38,0,2017-03-01,2026-06-01
+Canada,CAN,Other,38,0,2017-03-01,2026-06-01
+Canada,CAN,Petrol,38,0,2017-03-01,2026-06-01
+Canada,CAN,Plug-in hybrid,38,0,2017-03-01,2026-06-01
+Chile,CHL,Battery electric,33,33,2024-01-01,2026-09-01
+Chile,CHL,Combustion (unspecified),33,33,2024-01-01,2026-09-01
+Chile,CHL,Hybrid,33,33,2024-01-01,2026-09-01
+Chile,CHL,Plug-in hybrid,33,33,2024-01-01,2026-09-01
+China,CHN,Battery electric,178,153,2012-01-01,2026-10-01
+China,CHN,Combustion (unspecified),178,178,2012-01-01,2026-10-01
+China,CHN,Plug-in hybrid,178,151,2012-01-01,2026-10-01
+Colombia,COL,Battery electric,94,93,2019-01-01,2026-10-01
+Colombia,COL,Combustion (unspecified),94,94,2019-01-01,2026-10-01
+Colombia,COL,Hybrid,94,94,2019-01-01,2026-10-01
+Croatia,HRV,Battery electric,45,45,2023-01-01,2026-09-01
+Croatia,HRV,Diesel,45,45,2023-01-01,2026-09-01
+Croatia,HRV,Hybrid,45,45,2023-01-01,2026-09-01
+Croatia,HRV,Other,45,45,2023-01-01,2026-09-01
+Croatia,HRV,Petrol,45,45,2023-01-01,2026-09-01
+Croatia,HRV,Plug-in hybrid,45,45,2023-01-01,2026-09-01
+Cyprus,CYP,Battery electric,45,45,2023-01-01,2026-09-01
+Cyprus,CYP,Diesel,45,45,2023-01-01,2026-09-01
+Cyprus,CYP,Hybrid,45,45,2023-01-01,2026-09-01
+Cyprus,CYP,Other,45,0,2023-01-01,2026-09-01
+Cyprus,CYP,Petrol,45,45,2023-01-01,2026-09-01
+Cyprus,CYP,Plug-in hybrid,45,45,2023-01-01,2026-09-01
+Czechia,CZE,Battery electric,142,142,2015-01-01,2026-10-01
+Czechia,CZE,Diesel,142,142,2015-01-01,2026-10-01
+Czechia,CZE,Hybrid,142,36,2015-01-01,2026-10-01
+Czechia,CZE,Other,142,142,2015-01-01,2026-10-01
+Czechia,CZE,Petrol,142,142,2015-01-01,2026-10-01
+Czechia,CZE,Plug-in hybrid,142,106,2015-01-01,2026-10-01
+Denmark,DNK,Battery electric,142,142,2015-01-01,2026-10-01
+Denmark,DNK,Diesel,142,142,2015-01-01,2026-10-01
+Denmark,DNK,Other,142,60,2015-01-01,2026-10-01
+Denmark,DNK,Petrol,142,142,2015-01-01,2026-10-01
+Denmark,DNK,Plug-in hybrid,142,142,2015-01-01,2026-10-01
+Ecuador,ECU,Battery electric,67,67,2021-04-01,2026-10-01
+Ecuador,ECU,Combustion (unspecified),67,67,2021-04-01,2026-10-01
+Ecuador,ECU,Hybrid,67,67,2021-04-01,2026-10-01
+Estonia,EST,Battery electric,45,45,2023-01-01,2026-09-01
+Estonia,EST,Diesel,45,45,2023-01-01,2026-09-01
+Estonia,EST,Hybrid,45,45,2023-01-01,2026-09-01
+Estonia,EST,Other,45,23,2023-01-01,2026-09-01
+Estonia,EST,Petrol,45,45,2023-01-01,2026-09-01
+Estonia,EST,Plug-in hybrid,45,45,2023-01-01,2026-09-01
+Finland,FIN,Battery electric,130,130,2016-01-01,2026-10-01
+Finland,FIN,Diesel,130,130,2016-01-01,2026-10-01
+Finland,FIN,Other,130,119,2016-01-01,2026-10-01
+Finland,FIN,Petrol,130,130,2016-01-01,2026-10-01
+Finland,FIN,Plug-in hybrid,130,130,2016-01-01,2026-10-01
+France,FRA,Battery electric,142,142,2015-01-01,2026-10-01
+France,FRA,Diesel,142,142,2015-01-01,2026-10-01
+France,FRA,Hybrid,142,142,2015-01-01,2026-10-01
+France,FRA,Other,142,142,2015-01-01,2026-10-01
+France,FRA,Petrol,142,142,2015-01-01,2026-10-01
+France,FRA,Plug-in hybrid,142,142,2015-01-01,2026-10-01
+Germany,DEU,Battery electric,118,118,2017-01-01,2026-10-01
+Germany,DEU,Diesel,118,118,2017-01-01,2026-10-01
+Germany,DEU,Hybrid,118,118,2017-01-01,2026-10-01
+Germany,DEU,Other,118,118,2017-01-01,2026-10-01
+Germany,DEU,Petrol,118,118,2017-01-01,2026-10-01
+Germany,DEU,Plug-in hybrid,118,118,2017-01-01,2026-10-01
+Greece,GRC,Battery electric,45,45,2023-01-01,2026-09-01
+Greece,GRC,Diesel,45,45,2023-01-01,2026-09-01
+Greece,GRC,Hybrid,45,45,2023-01-01,2026-09-01
+Greece,GRC,Other,45,45,2023-01-01,2026-09-01
+Greece,GRC,Petrol,45,45,2023-01-01,2026-09-01
+Greece,GRC,Plug-in hybrid,45,45,2023-01-01,2026-09-01
+Hong Kong (SAR of China),HKG,Battery electric,124,123,2016-05-01,2026-08-01
+Hong Kong (SAR of China),HKG,Diesel,124,37,2016-05-01,2026-08-01
+Hong Kong (SAR of China),HKG,Petrol,124,124,2016-05-01,2026-08-01
+Hungary,HUN,Battery electric,45,45,2023-01-01,2026-09-01
+Hungary,HUN,Diesel,45,45,2023-01-01,2026-09-01
+Hungary,HUN,Hybrid,45,45,2023-01-01,2026-09-01
+Hungary,HUN,Other,45,45,2023-01-01,2026-09-01
+Hungary,HUN,Petrol,45,45,2023-01-01,2026-09-01
+Hungary,HUN,Plug-in hybrid,45,45,2023-01-01,2026-09-01
+Iceland,ISL,Battery electric,45,45,2023-01-01,2026-09-01
+Iceland,ISL,Diesel,45,45,2023-01-01,2026-09-01
+Iceland,ISL,Hybrid,45,45,2023-01-01,2026-09-01
+Iceland,ISL,Other,45,7,2023-01-01,2026-09-01
+Iceland,ISL,Petrol,45,45,2023-01-01,2026-09-01
+Iceland,ISL,Plug-in hybrid,45,45,2023-01-01,2026-09-01
+India,IND,Battery electric,82,82,2020-01-01,2026-10-01
+India,IND,Diesel,82,82,2020-01-01,2026-10-01
+India,IND,Ethanol/petrol blend,82,43,2020-01-01,2026-10-01
+India,IND,Hybrid,82,82,2020-01-01,2026-10-01
+India,IND,Other,82,82,2020-01-01,2026-10-01
+India,IND,Petrol,82,82,2020-01-01,2026-10-01
+India,IND,Plug-in hybrid,82,29,2020-01-01,2026-10-01
+Indonesia,IDN,Battery electric,202,78,2010-01-01,2026-10-01
+Indonesia,IDN,Diesel,202,202,2010-01-01,2026-10-01
+Indonesia,IDN,Hybrid,202,90,2010-01-01,2026-10-01
+Indonesia,IDN,Other,202,83,2010-01-01,2026-10-01
+Indonesia,IDN,Petrol,202,202,2010-01-01,2026-10-01
+Indonesia,IDN,Plug-in hybrid,202,51,2010-01-01,2026-10-01
+Ireland,IRL,Battery electric,237,190,2007-01-01,2026-09-01
+Ireland,IRL,Diesel,237,237,2007-01-01,2026-09-01
+Ireland,IRL,Hybrid,237,235,2007-01-01,2026-09-01
+Ireland,IRL,Other,237,100,2007-01-01,2026-09-01
+Ireland,IRL,Petrol,237,237,2007-01-01,2026-09-01
+Ireland,IRL,Plug-in hybrid,237,146,2007-01-01,2026-09-01
+Israel,ISR,Battery electric,106,106,2018-01-01,2026-10-01
+Israel,ISR,Combustion (unspecified),106,106,2018-01-01,2026-10-01
+Israel,ISR,Hybrid,106,106,2018-01-01,2026-10-01
+Israel,ISR,Plug-in hybrid,106,106,2018-01-01,2026-10-01
+Italy,ITA,Battery electric,94,94,2019-01-01,2026-10-01
+Italy,ITA,Diesel,94,94,2019-01-01,2026-10-01
+Italy,ITA,Hybrid,94,94,2019-01-01,2026-10-01
+Italy,ITA,Other,94,94,2019-01-01,2026-10-01
+Italy,ITA,Petrol,94,94,2019-01-01,2026-10-01
+Italy,ITA,Plug-in hybrid,94,94,2019-01-01,2026-10-01
+Japan,JPN,Battery electric,106,106,2018-01-01,2026-10-01
+Japan,JPN,Diesel,106,106,2018-01-01,2026-10-01
+Japan,JPN,Hybrid,106,106,2018-01-01,2026-10-01
+Japan,JPN,Other,106,106,2018-01-01,2026-10-01
+Japan,JPN,Petrol,106,106,2018-01-01,2026-10-01
+Japan,JPN,Plug-in hybrid,106,106,2018-01-01,2026-10-01
+Latvia,LVA,Battery electric,45,45,2023-01-01,2026-09-01
+Latvia,LVA,Diesel,45,45,2023-01-01,2026-09-01
+Latvia,LVA,Hybrid,45,24,2023-01-01,2026-09-01
+Latvia,LVA,Other,45,45,2023-01-01,2026-09-01
+Latvia,LVA,Petrol,45,45,2023-01-01,2026-09-01
+Latvia,LVA,Plug-in hybrid,45,45,2023-01-01,2026-09-01
+Lithuania,LTU,Battery electric,45,45,2023-01-01,2026-09-01
+Lithuania,LTU,Diesel,45,45,2023-01-01,2026-09-01
+Lithuania,LTU,Hybrid,45,45,2023-01-01,2026-09-01
+Lithuania,LTU,Other,45,32,2023-01-01,2026-09-01
+Lithuania,LTU,Petrol,45,45,2023-01-01,2026-09-01
+Lithuania,LTU,Plug-in hybrid,45,31,2023-01-01,2026-09-01
+Luxembourg,LUX,Battery electric,201,187,2010-01-01,2026-09-01
+Luxembourg,LUX,Diesel,201,201,2010-01-01,2026-09-01
+Luxembourg,LUX,Hybrid,201,201,2010-01-01,2026-09-01
+Luxembourg,LUX,Other,201,106,2010-01-01,2026-09-01
+Luxembourg,LUX,Petrol,201,201,2010-01-01,2026-09-01
+Luxembourg,LUX,Plug-in hybrid,201,174,2010-01-01,2026-09-01
+Malaysia,MYS,Battery electric,142,125,2015-01-01,2026-10-01
+Malaysia,MYS,Diesel,142,142,2015-01-01,2026-10-01
+Malaysia,MYS,Hybrid,142,142,2015-01-01,2026-10-01
+Malaysia,MYS,Other,142,92,2015-01-01,2026-10-01
+Malaysia,MYS,Petrol,142,142,2015-01-01,2026-10-01
+Malta,MLT,Battery electric,45,45,2023-01-01,2026-09-01
+Malta,MLT,Diesel,45,45,2023-01-01,2026-09-01
+Malta,MLT,Hybrid,45,45,2023-01-01,2026-09-01
+Malta,MLT,Other,45,10,2023-01-01,2026-09-01
+Malta,MLT,Petrol,45,45,2023-01-01,2026-09-01
+Malta,MLT,Plug-in hybrid,45,45,2023-01-01,2026-09-01
+Mexico,MEX,Battery electric,129,129,2016-01-01,2026-09-01
+Mexico,MEX,Combustion (unspecified),129,129,2016-01-01,2026-09-01
+Mexico,MEX,Hybrid,129,129,2016-01-01,2026-09-01
+Mexico,MEX,Plug-in hybrid,129,129,2016-01-01,2026-09-01
+Nepal,NPL,Battery electric,76,72,2020-07-01,2026-10-01
+Nepal,NPL,Combustion (unspecified),76,76,2020-07-01,2026-10-01
+Nepal,NPL,Hybrid,76,22,2020-07-01,2026-10-01
+Nepal,NPL,Plug-in hybrid,76,61,2020-07-01,2026-10-01
+Netherlands,NLD,Battery electric,106,106,2018-01-01,2026-10-01
+Netherlands,NLD,Diesel,106,106,2018-01-01,2026-10-01
+Netherlands,NLD,Hybrid,106,34,2018-01-01,2026-10-01
+Netherlands,NLD,Other,106,106,2018-01-01,2026-10-01
+Netherlands,NLD,Petrol,106,106,2018-01-01,2026-10-01
+Netherlands,NLD,Plug-in hybrid,106,106,2018-01-01,2026-10-01
+New Zealand,NZL,Battery electric,34,34,2024-01-01,2026-10-01
+New Zealand,NZL,Diesel,34,34,2024-01-01,2026-10-01
+New Zealand,NZL,Hybrid,34,34,2024-01-01,2026-10-01
+New Zealand,NZL,Other,34,8,2024-01-01,2026-10-01
+New Zealand,NZL,Petrol,34,34,2024-01-01,2026-10-01
+New Zealand,NZL,Plug-in hybrid,34,34,2024-01-01,2026-10-01
+Norway,NOR,Battery electric,262,227,2005-01-01,2026-10-01
+Norway,NOR,Diesel,262,262,2005-01-01,2026-10-01
+Norway,NOR,Hybrid,262,207,2005-01-01,2026-10-01
+Norway,NOR,Petrol,262,262,2005-01-01,2026-10-01
+Norway,NOR,Plug-in hybrid,262,174,2005-01-01,2026-10-01
+Peru,PER,Battery electric,94,85,2019-01-01,2026-10-01
+Peru,PER,Combustion (unspecified),94,93,2019-01-01,2026-10-01
+Peru,PER,Hybrid,94,92,2019-01-01,2026-10-01
+Peru,PER,Plug-in hybrid,94,80,2019-01-01,2026-10-01
+Poland,POL,Battery electric,106,106,2018-01-01,2026-10-01
+Poland,POL,Diesel,106,106,2018-01-01,2026-10-01
+Poland,POL,Hybrid,106,106,2018-01-01,2026-10-01
+Poland,POL,Other,106,106,2018-01-01,2026-10-01
+Poland,POL,Petrol,106,106,2018-01-01,2026-10-01
+Poland,POL,Plug-in hybrid,106,106,2018-01-01,2026-10-01
+Portugal,PRT,Battery electric,94,94,2019-01-01,2026-10-01
+Portugal,PRT,Diesel,94,94,2019-01-01,2026-10-01
+Portugal,PRT,Hybrid,94,94,2019-01-01,2026-10-01
+Portugal,PRT,Other,94,94,2019-01-01,2026-10-01
+Portugal,PRT,Petrol,94,94,2019-01-01,2026-10-01
+Portugal,PRT,Plug-in hybrid,94,94,2019-01-01,2026-10-01
+Romania,ROU,Battery electric,45,45,2023-01-01,2026-09-01
+Romania,ROU,Diesel,45,45,2023-01-01,2026-09-01
+Romania,ROU,Hybrid,45,45,2023-01-01,2026-09-01
+Romania,ROU,Other,45,45,2023-01-01,2026-09-01
+Romania,ROU,Petrol,45,45,2023-01-01,2026-09-01
+Romania,ROU,Plug-in hybrid,45,0,2023-01-01,2026-09-01
+Singapore,SGP,Battery electric,46,46,2023-01-01,2026-10-01
+Singapore,SGP,Diesel,46,26,2023-01-01,2026-10-01
+Singapore,SGP,Hybrid,46,46,2023-01-01,2026-10-01
+Singapore,SGP,Petrol,46,46,2023-01-01,2026-10-01
+Singapore,SGP,Plug-in hybrid,46,46,2023-01-01,2026-10-01
+Slovakia,SVK,Battery electric,45,45,2023-01-01,2026-09-01
+Slovakia,SVK,Diesel,45,45,2023-01-01,2026-09-01
+Slovakia,SVK,Hybrid,45,45,2023-01-01,2026-09-01
+Slovakia,SVK,Other,45,45,2023-01-01,2026-09-01
+Slovakia,SVK,Petrol,45,45,2023-01-01,2026-09-01
+Slovakia,SVK,Plug-in hybrid,45,45,2023-01-01,2026-09-01
+Slovenia,SVN,Battery electric,45,45,2023-01-01,2026-09-01
+Slovenia,SVN,Diesel,45,45,2023-01-01,2026-09-01
+Slovenia,SVN,Hybrid,45,45,2023-01-01,2026-09-01
+Slovenia,SVN,Other,45,45,2023-01-01,2026-09-01
+Slovenia,SVN,Petrol,45,45,2023-01-01,2026-09-01
+Slovenia,SVN,Plug-in hybrid,45,45,2023-01-01,2026-09-01
+South Africa,ZAF,Battery electric,14,0,2023-03-01,2026-06-01
+South Africa,ZAF,Combustion (unspecified),14,0,2023-03-01,2026-06-01
+South Africa,ZAF,Hybrid,14,0,2023-03-01,2026-06-01
+South Africa,ZAF,Plug-in hybrid,14,0,2023-03-01,2026-06-01
+South Korea,KOR,Battery electric,117,117,2017-01-01,2026-09-01
+South Korea,KOR,Combustion (unspecified),117,117,2017-01-01,2026-09-01
+South Korea,KOR,Hybrid,117,117,2017-01-01,2026-09-01
+South Korea,KOR,Other,117,114,2017-01-01,2026-09-01
+South Korea,KOR,Plug-in hybrid,117,117,2017-01-01,2026-09-01
+Spain,ESP,Battery electric,142,142,2015-01-01,2026-10-01
+Spain,ESP,Diesel,142,142,2015-01-01,2026-10-01
+Spain,ESP,Hybrid,142,142,2015-01-01,2026-10-01
+Spain,ESP,Other,142,142,2015-01-01,2026-10-01
+Spain,ESP,Petrol,142,142,2015-01-01,2026-10-01
+Spain,ESP,Plug-in hybrid,142,142,2015-01-01,2026-10-01
+Sweden,SWE,Battery electric,250,211,2006-01-01,2026-10-01
+Sweden,SWE,Diesel,250,250,2006-01-01,2026-10-01
+Sweden,SWE,Hybrid,250,250,2006-01-01,2026-10-01
+Sweden,SWE,Other,250,250,2006-01-01,2026-10-01
+Sweden,SWE,Petrol,250,250,2006-01-01,2026-10-01
+Sweden,SWE,Plug-in hybrid,250,176,2006-01-01,2026-10-01
+Switzerland,CHE,Battery electric,262,247,2005-01-01,2026-10-01
+Switzerland,CHE,Diesel,262,262,2005-01-01,2026-10-01
+Switzerland,CHE,Hybrid,262,262,2005-01-01,2026-10-01
+Switzerland,CHE,Other,262,251,2005-01-01,2026-10-01
+Switzerland,CHE,Petrol,262,262,2005-01-01,2026-10-01
+Switzerland,CHE,Plug-in hybrid,262,222,2005-01-01,2026-10-01
+Taiwan (China),TWN,Battery electric,174,160,2012-01-01,2026-06-01
+Taiwan (China),TWN,Diesel,174,174,2012-01-01,2026-06-01
+Taiwan (China),TWN,Hybrid,174,174,2012-01-01,2026-06-01
+Taiwan (China),TWN,Other,174,120,2012-01-01,2026-06-01
+Taiwan (China),TWN,Petrol,174,174,2012-01-01,2026-06-01
+Taiwan (China),TWN,Plug-in hybrid,174,95,2012-01-01,2026-06-01
+Thailand,THA,Battery electric,105,104,2018-01-01,2026-09-01
+Thailand,THA,Combustion (unspecified),105,105,2018-01-01,2026-09-01
+Thailand,THA,Hybrid,105,105,2018-01-01,2026-09-01
+Thailand,THA,Other,105,20,2018-01-01,2026-09-01
+Thailand,THA,Plug-in hybrid,105,74,2018-01-01,2026-09-01
+Türkiye,TUR,Battery electric,80,80,2020-01-01,2026-08-01
+Türkiye,TUR,Diesel,80,80,2020-01-01,2026-08-01
+Türkiye,TUR,Hybrid,80,80,2020-01-01,2026-08-01
+Türkiye,TUR,Other,80,80,2020-01-01,2026-08-01
+Türkiye,TUR,Petrol,80,80,2020-01-01,2026-08-01
+Türkiye,TUR,Plug-in hybrid,80,32,2020-01-01,2026-08-01
+Ukraine,UKR,Battery electric,164,155,2013-01-01,2026-08-01
+Ukraine,UKR,Diesel,164,164,2013-01-01,2026-08-01
+Ukraine,UKR,Hybrid,164,164,2013-01-01,2026-08-01
+Ukraine,UKR,Other,164,164,2013-01-01,2026-08-01
+Ukraine,UKR,Petrol,164,164,2013-01-01,2026-08-01
+United Kingdom,GBR,Battery electric,101,101,2018-06-01,2026-10-01
+United Kingdom,GBR,Diesel,101,101,2018-06-01,2026-10-01
+United Kingdom,GBR,Hybrid,101,101,2018-06-01,2026-10-01
+United Kingdom,GBR,Petrol,101,101,2018-06-01,2026-10-01
+United Kingdom,GBR,Plug-in hybrid,101,101,2018-06-01,2026-10-01
+United States,USA,Battery electric,190,190,2011-01-01,2026-10-01
+United States,USA,Combustion (unspecified),190,190,2011-01-01,2026-10-01
+United States,USA,Hybrid,190,190,2011-01-01,2026-10-01
+United States,USA,Plug-in hybrid,190,190,2011-01-01,2026-10-01
+Uruguay,URY,Battery electric,46,46,2023-01-01,2026-10-01
+Uruguay,URY,Diesel,46,46,2023-01-01,2026-10-01
+Uruguay,URY,Hybrid,46,46,2023-01-01,2026-10-01
+Uruguay,URY,Petrol,46,46,2023-01-01,2026-10-01
+Viet Nam,VNM,Battery electric,45,45,2023-01-01,2026-09-01
+Viet Nam,VNM,Combustion (unspecified),45,45,2023-01-01,2026-09-01
+Viet Nam,VNM,Hybrid,45,33,2023-01-01,2026-09-01
